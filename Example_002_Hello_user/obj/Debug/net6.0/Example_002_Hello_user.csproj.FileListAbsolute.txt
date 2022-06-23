@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\bin\Debug\net6.0\Example_002_Hello_user.exe
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\bin\Debug\net6.0\Example_002_Hello_user.deps.json
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\bin\Debug\net6.0\Example_002_Hello_user.runtimeconfig.json
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\bin\Debug\net6.0\Example_002_Hello_user.dll
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\bin\Debug\net6.0\Example_002_Hello_user.pdb
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.AssemblyInfo.cs
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.dll
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\refint\Example_002_Hello_user.dll
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.pdb
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\Example_002_Hello_user.genruntimeconfig.cache
+C:\Users\Max\Desktop\GeekBrains\Лекции\4. Знакомтво с языками программирования\Первые программы\Example_002_Hello_user\obj\Debug\net6.0\ref\Example_002_Hello_user.dll
